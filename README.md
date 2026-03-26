@@ -1,12 +1,11 @@
 # Hi 👋, I'm Nischal
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nischal!;B.E+in+AI+%26+Data+Science;ML+Enthusiast+%7C+Deep+Learning" alt="Typing SVG" />
+ # HUSTLER 2.0
 
 <br/>
 
 
-<img align="center" src="NischalAi.gif" width="400" height="500"/>
+<img align="center" src="NischalAi.gif" width="300" height="400"/>
 <br/><br/>
 
 </div>
