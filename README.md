@@ -2,11 +2,10 @@
 
 ### 🎓 B.E in AI & Data Science | ML Enthusiast
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="500"/>
 
 - 🔭 Currently working on **Fundamentals and advance development of ML**
 - 🌱 Learning **Machine Learning & Deep Learning**
-- 🚀 Building an **Intelligent Traffic System using YOLOv8**
 - 📫 Reach me at: differentnsichal@gmail.com
 - ⚡ Fun fact: I think I'm funny
 
