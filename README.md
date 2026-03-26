@@ -12,7 +12,8 @@
 
 ### 🧠 About Me
 
-
+&nbsp;&nbsp;&nbsp;&nbsp; 🏫 **CMR Institute of Technology, Bengaluru**
+&nbsp;&nbsp;&nbsp;&nbsp; 📚 B.E in Artificial Intelligence & Data Science
 &nbsp;&nbsp;&nbsp;&nbsp; 🔭 Currently working on **Fundamentals & Advanced ML**  
 &nbsp;&nbsp;&nbsp;&nbsp; 🌱 Learning **Machine Learning & Deep Learning**  
 &nbsp;&nbsp;&nbsp;&nbsp; 📫 Reach me: **differentnsichal@gmail.com**  
