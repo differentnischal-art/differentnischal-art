@@ -2,7 +2,7 @@
 
 ### 🎓 B.E in AI & Data Science | ML Enthusiast
 
-<img align="right" src="differentnischal-art\NischalAi.gif" width="500" />
+<img align="right" src="NischalAi.gif" width="500" />
 
 - 🔭 Currently working on **Fundamentals and advance development of ML**
 - 🌱 Learning **Machine Learning & Deep Learning**
