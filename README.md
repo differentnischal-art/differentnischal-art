@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nischal !## 🌐 Portfolio👉 [Visit My Portfolio](https://portfolio-omega-six-w7sgu4z1er.vercel.app/)
+# Hi 👋, I'm Nischal ! 🌐 Portfolio👉 [Visit My Portfolio](https://portfolio-omega-six-w7sgu4z1er.vercel.app/)
 
       
 <div align="center">
